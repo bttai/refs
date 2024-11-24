@@ -1,0 +1,1 @@
+gcc -static -o suid_shell suid_shell.c 
