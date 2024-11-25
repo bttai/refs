@@ -141,15 +141,11 @@
 
 ##  Notes
 
-    -F: Defines the field separator.
-    NR: Line number of the current record.
-    $1, $2, ...: Column values (1st, 2nd, etc.).
-    $NF: The last column in the current line.
-    ~: Matches a regular expression.
-    END: Executes after reading all lines.
-    sum: A variable to store the sum of values.
-    count: A variable to count the number of records. """
-
-
-
-    Would you like me to suggest more specific additions or help convert this into a downloadable .md file for your convenience?
+- F: Defines the field separator.
+- NR: Line number of the current record.
+- $1, $2, ...: Column values (1st, 2nd, etc.).
+- $NF: The last column in the current line.
+- ~: Matches a regular expression.
+- END: Executes after reading all lines.
+- sum: A variable to store the sum of values.
+- count: A variable to count the number of records. 
